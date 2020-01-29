@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Esse repositório foi um estudo sobre o funcionamento do
+Esse repositório foi um estudo sobre o funcionamento do graphQL usando node.
 
 ### Prerequisites
 
